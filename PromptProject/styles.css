@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #AFC8AD; /* Very dark blue background color */
+    color: #4F709C; /* Light purple text color */  
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.posters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.poster {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+}
+
+.poster img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.info {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+
+.film-name, .director, .release-year {
+    margin: 5px 0;
+}
