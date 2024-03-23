@@ -1,0 +1,38 @@
+The Image Generator:Deep Dream Generator
+Prompts for images:
+
+Worst Person in the World:
+One women running in thr european city with a silk white dress. 
+It is sunny but there are clouds in the sky
+
+Suspiria:
+There is a three witches around a bonfire in the night with a
+fullmoon in the sky in germany 
+
+Synecdoche, New York:
+Generate a new movieposter for Synecdoche, 
+New York 2008 Directed by Charlie Kaufman
+
+A Ghost Story:
+lonely ghost in a house
+
+Decision to leave:
+the waves create a womens profile in the sand as they whas the sands away. 
+We see the women siluette because the picture is a birdview picture
+
+Shinning:
+There is and red old car on the long road between the mouintains
+
+The codes Creation: Chat GPT
+Prompt for the site:
+
+I need html and css code for a site that will show 6
+film posters and their names,directors names, their release dates under the posters.
+Posters should be 3 in one row and total of 2 rows. 
+I need to be able to scroll dow the site and see the other posters and read the text.
+The site must be in #AFC8AD and 
+the colours of the texts should be #4F709C.
+The images would be added later but you should 
+say where the images should be added so I can add them later. 
+You should give the codes separatley as html and css so I can copy them easily. 
+If you understand say yes and generate. If it is not clear you can ask me.
